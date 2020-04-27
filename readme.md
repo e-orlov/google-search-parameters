@@ -1,5 +1,5 @@
 
-* (Google search parameters resources)[http://devcoma.blogspot.com/2017/04/google-search-parameters-resources.html]
+* [http://devcoma.blogspot.com/2017/04/google-search-parameters-resources.html](Google search parameters resources)
 
 The Ultimate Guide to the Google Search Parameters
 https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters
